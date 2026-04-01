@@ -17,9 +17,9 @@
 - 自带 OpenAI 兼容 server 语义
 - 在 Linux 上容易通过脚本构建与打包
 
-## 当前文档应围绕的真实路径
+## 常见路径
 
-新的 Linux 文档应优先使用：
+排查或手动配置时，常见路径包括：
 
 - `scripts/platforms/linux/...`
 - `.local/runtime/linux/...`
