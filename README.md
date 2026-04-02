@@ -15,19 +15,19 @@ OmniStudio 当前主要分为四类文档入口：
 
 如果你使用的是 Windows / macOS 桌面客户端，请从：
 
-- [PC 客户端](02-客户端/README.md)
+- [PC 客户端](02-PC客户端/README.md)
 
 如果你使用的是 Android 手机：
 
-- [Android 客户端](05-Android客户端/README.md)
+- [Android 客户端](03-Android客户端/README.md)
 
 如果你使用的是 Linux CLI，请从：
 
-- [Linux CLI](04-CLI/README.md)
+- [Linux CLI](04-Linux-CLI/README.md)
 
 如果你需要查看 API、配置、引擎或集成说明，请从：
 
-- [开发者文档](03-开发者文档/README.md)
+- [开发者文档](05-开发者文档/README.md)
 
 ## 你会在这里看到什么
 
