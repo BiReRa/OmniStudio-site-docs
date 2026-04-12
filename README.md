@@ -1,4 +1,4 @@
-# OmniStudio Labubu 文档中心
+# OmniStudio 文档中心
 
 OmniStudio 当前主要分为四类文档入口：
 
